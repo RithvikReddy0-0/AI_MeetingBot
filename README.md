@@ -41,8 +41,8 @@ Ideal for use cases like:
 1. **Clone the repo**
 
     ```bash
-    git clone https://github.com/your-username/audio-keypoint-extractor.git
-    cd audio-keypoint-extractor
+    git clone https://github.com/your-username/AI_MeetingBot.git
+    cd AI_MeetingBot
 
 2. **Clone the repo**
 
